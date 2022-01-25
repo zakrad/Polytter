@@ -11,11 +11,11 @@ module.exports = {
     hardhat: {
     },
     matic: {
-      url: "https://speedy-nodes-nyc.moralis.io/453da2a22cc39051bdeaaeb2/polygon/mumbai",
+      url: "",
       accounts: [secret.key]
     },
     maticmain: {
-      url: "https://speedy-nodes-nyc.moralis.io/453da2a22cc39051bdeaaeb2/polygon/mainnet",
+      url: "",
       accounts: [secret.key]
     }
   },

@@ -1,3 +1,0 @@
-const decentradit = await Decentradit.attach("0x3a1AF9034449A8C0375aF7027F1BEA5ecfb604AF")
-const Decentradit = await ethers.getContractFactory("Decentradit");
-.help
